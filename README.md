@@ -7,5 +7,6 @@ It uses python and various api to fetch lyrics!
 ```pip3 install lyricsgenius``` --> to install from pip
 
 ## Usage
-###### Run the LyricsSearch.py from the terminal! 
+###### Run the LyricsSearch.py from the terminal!
+```python3 LyricsSearch.py```
 
