@@ -2,7 +2,7 @@
 It uses python and various api to fetch lyrics!
 
 ######View Online on
-[View on Repl](https://repl.it/@FreakStar/musicapipy#main.py)
+[Repl](https://repl.it/@FreakStar/musicapipy#main.py)
 
 ### Pre-requisites
   note --> keep musicmatch_api.py and LyricsSeach.py in one file at smae level
