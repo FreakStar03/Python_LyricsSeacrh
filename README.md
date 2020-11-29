@@ -2,7 +2,7 @@
 It uses python and various api to fetch lyrics!
 
 ### Pre-requisites
-  note --> keep musicmatch_api and LyricsSeach.py in one file at smae level
+  note --> keep musicmatch_api.py and LyricsSeach.py in one file at smae level
 #### lyricsgenius
 ```pip3 install lyricsgenius``` --> to install from pip
 
