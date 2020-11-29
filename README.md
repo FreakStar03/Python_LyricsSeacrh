@@ -3,7 +3,7 @@ It uses python and various api to fetch lyrics!
 
 ### Pre-requisites
 
-### lyricsgenius
+#### lyricsgenius
 ###### pip3 install lyricsgenius --> to install from pip
 
 ## Usage
